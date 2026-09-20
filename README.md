@@ -49,8 +49,6 @@ Train-Test Split
         ↓
 Preprocessing Pipeline
         ↓
-Baseline Models
-        ↓
 Cross-Validation
         ↓
 Hyperparameter Tuning
