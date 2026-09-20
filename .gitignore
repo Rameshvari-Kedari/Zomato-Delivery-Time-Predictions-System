@@ -16,9 +16,6 @@ __pycache__/
 # Environment variables
 .env
 
-# ML/model temporary files
-*.pkl
-*.joblib
 
 # Data
 data/
